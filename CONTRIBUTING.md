@@ -5,7 +5,7 @@ Thank you for investing your time in contributing to our project! Any contributi
 **Before you contribute**
 
 
-Read our [Code of Conduct](https://github.com/sujaykumarh/.github/blob/main/.github/CODE_OF_CONDUCT.md) to keep your contribution approachable and respectable in the community.
+Read our [Code of Conduct](https://github.com/sujaykumarh/.github/blob/main/CODE_OF_CONDUCT.md) to keep your contribution approachable and respectable in the community.
 
 
 <br>
