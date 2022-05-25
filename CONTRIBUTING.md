@@ -1,6 +1,6 @@
 # Welcome to contributing guide
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on respective repo.
+Thank you for investing your time in contributing to the project! Any contribution you make will be reflected on respective repo.
 
 **Before you contribute**
 
