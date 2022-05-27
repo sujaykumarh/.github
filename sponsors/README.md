@@ -10,4 +10,4 @@ Here are the things that I want to make sure you get:
 
 * If you are a premium sponsor, you will be able to see the sponsor's logo or banner on the project website.
 
-if you have any questions, please contact me at [hello@sujaykumarh.com](mailto:hello@sujaykumarh.com)
+if you have any questions, please contact me at [hello@sujaykumarh.com](mailto:hello@sujaykumarh.com) 
